@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings version="1">
+	<Application version="1.0.0.0"></Application>
+	<Module name="Default" hardname="Default" version="1.0.0.0">
+		<Setting name="" hardname="" type="text">
+			<Default></Default>
+			<Value></Value>
+		</Settin>
+		<Setting name="" hardname="" type="combobox">
+			<Default></Default>
+			<Value></Value>
+		</Settin>
+		<Setting name="" hardname="" type="checkbox">
+			<Default></Default>
+			<Value></Value>
+		</Settin>
+	</Module>
+	
+</Settings>
